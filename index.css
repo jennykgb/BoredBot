@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: 'Eczar', serif;
+    background-image: linear-gradient(to right bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+
+.container{
+    text-align: center;
+
+}
+
+h1{
+    font-size: 3rem;
+    margin: 2em 0 .5em 0;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 2.25rem;
+    margin: 0;
+    font-weight: 400;
+}
+
+button{
+    font-family: 'Eczar', serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: .75em 0;
+    padding: 1em 2em;
+    border-radius: 50%;
+    border: none;
+    background-color: #d16ba5;
+    box-shadow: 2.5px 5px #88436acd;
+    cursor: pointer;
+}
+
